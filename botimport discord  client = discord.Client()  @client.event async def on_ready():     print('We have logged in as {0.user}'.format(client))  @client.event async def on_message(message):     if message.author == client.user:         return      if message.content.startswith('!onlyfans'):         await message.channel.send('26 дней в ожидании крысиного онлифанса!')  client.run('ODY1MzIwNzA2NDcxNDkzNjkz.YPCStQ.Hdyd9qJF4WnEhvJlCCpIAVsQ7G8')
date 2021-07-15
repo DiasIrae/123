@@ -14,4 +14,4 @@ async def on_message(message):
     if message.content.startswith('!onlyfans'):
         await message.channel.send('26 дней в ожидании крысиного онлифанса!')
 
-client.run('token')
+client.run('ODY1MzIwNzA2NDcxNDkzNjkz.YPCStQ.Hdyd9qJF4WnEhvJlCCpIAVsQ7G8')
